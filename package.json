@@ -1,20 +1,15 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "E-Commerce-Application",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "This is the back end of an e-commerce site that will use Express.js, Sequelize and a MySQL database",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
-  },
-  "keywords": [],
-  "author": "",
+  "author": "Jacob Ontiveros",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
